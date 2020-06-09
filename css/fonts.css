@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Poppins Regular"), local("Poppins-Regular"), url(../assets/fonts/Poppins-Regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local("Poppins Medium"), local("Poppins-Medium"), url(../assets/fonts/Poppins-Medium.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Rubik Regular"), local("Rubik-Regular"), url(../assets/fonts/Rubik-Regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local("Rubik Medium"), local("Rubik-Medium"), url(../assets/fonts/Rubik-Medium.woff2) format("woff2");
+}
